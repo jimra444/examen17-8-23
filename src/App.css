@@ -1,0 +1,16 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.Card{
+  width: 600px;
+  height: 300px;
+  border: 2px solid #fff;
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+  
+}
